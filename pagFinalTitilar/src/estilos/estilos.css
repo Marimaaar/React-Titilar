@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Dosis;
+    src: url('../Tipografias/Dosis-Light.ttf');
+}
+@font-face {
+    font-family: Dharma;
+    src: url('../Tipografias/DharmaSlabE-Regular.ttf');
+}
+.menu{
+    font-family: Dosis;
+    font-size: 30px;
+    color: black;
+}
+.menu a:hover {
+    background-color: #e42823;
+}
+h2{
+    font-family: Dharma;
+    font-size: 45px;
+}
+.carrusel{
+    font-family: Dosis;
+    font-size: 25px;
+}
+h1{
+    font-family: Dharma;
+    font-size: 60px;
+    text-align: center;
+}
+.parrafo-historia{
+    font-family: Dosis;
+    font-size: 20px;
+    text-align: center;
+}
+.cards{
+    font-family: Dharma;
+    font-size: 35px;
+}
+.img1{
+    width: 300px;
+}
+.img2{
+    width: 240px;
+}
+.img3{
+    width: 325px;
+}
+.text-abajo{
+    text-align: center;
+}
+footer{
+    background-color: #afafaf !important;
+}
